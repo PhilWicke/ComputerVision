@@ -1,0 +1,13 @@
+function probs = probs(labels ,p)
+% INITIALIZE_PROBABILITIES Initialize relaxation labeling .
+% PROBS = INITIALIZE_PROBABILITIES ( LABELS , P ) Initialize the
+% probability values for relaxation labeling . LABELS is an
+% indexed image holding region labels . P is the probability
+% that should initially be assigned to the given labels .
+% PROBS is a three dimension array of size
+% SIZE ( LABELS ) x NUMBER_OF_LABELS , holding the initial
+% probabilities for every label .
+
+probs = empty(size(labels)
+
+end
