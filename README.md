@@ -1,5 +1,5 @@
 # Computer Vision
-# ![alt text](https://github.com/PhilWicke/ComputerVision/blob/master/fckpged.png "Hough Transform")
+# ![alt text](https://github.com/PhilWicke/ComputerVision/blob/master/fckpged.PNG "Hough Transform")
 This repository contains a selection of standard Computer Vision algorithms such as object recognition, filtering and basic image processing. 
 The Image Processing Toolbox is only required for parts that make use of a webcam. But there is also a workaround given, which takes the video stream of a local IP input such as [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam) provides using your mobile phone camera.
 
