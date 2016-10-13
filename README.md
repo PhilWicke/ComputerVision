@@ -19,7 +19,17 @@ The Image Processing Toolbox is only required for parts that make use of a webca
 + Object Recognition
 
 ## Segmentation
++ Region labeling
++ Relaxation labeling
 
+## Color Segmentation
++ Color distribution
++ k-means clustering
 
+## Hough Transform
++ Hough Transform
++ Circular Hough Transfrom
++ Iris detection
 
-
+## Fourier Transform
++ Example, implementation and application
